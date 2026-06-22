@@ -6,6 +6,14 @@ HTML로 만들어 주는 스크립트입니다.
 
 - 스크립트: [`airbnb_report.py`](airbnb_report.py)
 - 예시 결과물: [`sample_report.html`](sample_report.html)
+- **파이썬 없이** Opus(클로드) 대화창에 붙여넣어 쓰는 프롬프트: [`prompt.md`](prompt.md)
+
+## 두 가지 사용 방법
+
+| 방법 | 언제 쓰나 | 파일 |
+| --- | --- | --- |
+| ① 파이썬 스크립트 | 같은 양식으로 빠르게 여러 건 생성, HTML 결과물 필요 | `airbnb_report.py` |
+| ② 대화창 프롬프트 | 설치 없이 Opus 대화창에서 바로, 지역 맥락까지 풍부하게 | `prompt.md` |
 
 ## 무엇을 만들어 주나요?
 
